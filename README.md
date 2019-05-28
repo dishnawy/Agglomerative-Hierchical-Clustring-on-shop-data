@@ -1,4 +1,4 @@
-# Agglomerative Hierchical Clustring on a shop data
+# Agglomerative Hierarchical Clustring on a shop data
 > Data provided for a shop, including customer gender, age, annual income, and spending score for the shop. Agglomerative HC is used to discover clusters
 
 
